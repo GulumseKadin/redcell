@@ -1,0 +1,7 @@
+name: "scanme.nmap.org demo"
+authorization_ref: "NMAP-PUBLIC-TEST-HOST (http://scanme.nmap.org — owner authorizes scanning)"
+allow:
+  hosts: []
+  domains: ["scanme.nmap.org"]
+deny:
+  hosts: []

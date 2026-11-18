@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+.venv_test/
+venv/
+env/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# redcell runtime state (SQLite findings store, local scans)
+.redcell/
+*.sqlite
+*.sqlite3
+*.db
+
+# Node / Remotion (promo/)
+node_modules/
+promo/node_modules/
+npm-debug.log*
+yarn-error.log*
+.remotion/
+
+# Remotion renders: keep the final promo video, drop everything else under out/
+promo/out/*
+!promo/out/redcell-promo.mp4
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
