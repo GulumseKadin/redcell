@@ -1,5 +1,8 @@
 # redcell
 
+https://github.com/user-attachments/assets/553fa9ba-2d82-4714-9d85-863731e31549
+
+
 <div align="center">
 
 <video src="https://github.com/GulumseKadin/redcell/raw/main/promo/out/redcell-promo.mp4"
