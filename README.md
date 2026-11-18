@@ -2,9 +2,11 @@
 
 <div align="center">
 
-[![REDCELL demo video](promo/poster.png)](promo/out/redcell-promo.mp4)
-
-Click the image to play the 26-second demo.
+<video src="https://github.com/GulumseKadin/redcell/raw/main/promo/out/redcell-promo.mp4"
+       poster="https://github.com/GulumseKadin/redcell/raw/main/promo/poster.png"
+       controls muted loop width="860">
+  <a href="https://github.com/GulumseKadin/redcell/raw/main/promo/out/redcell-promo.mp4">Watch the 26-second REDCELL demo</a>
+</video>
 
 </div>
 

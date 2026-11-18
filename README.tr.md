@@ -2,9 +2,11 @@
 
 <div align="center">
 
-[![REDCELL tanıtım videosu](promo/poster.png)](promo/out/redcell-promo.mp4)
-
-Videoyu oynatmak için görsele tıkla (26 saniye).
+<video src="https://github.com/GulumseKadin/redcell/raw/main/promo/out/redcell-promo.mp4"
+       poster="https://github.com/GulumseKadin/redcell/raw/main/promo/poster.png"
+       controls muted loop width="860">
+  <a href="https://github.com/GulumseKadin/redcell/raw/main/promo/out/redcell-promo.mp4">REDCELL tanıtım videosunu izle (26 saniye)</a>
+</video>
 
 </div>
 
